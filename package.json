@@ -1,0 +1,24 @@
+{
+  "name": "pro_hardware_xtreme_ui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^12",
+    "react": "^17",
+    "react-cookie": "^7.0.1",
+    "react-dom": "^17"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.4",
+    "@types/react": "18.2.48",
+    "eslint": "^8",
+    "eslint-config-next": "^12",
+    "typescript": "5.3.3"
+  }
+}
